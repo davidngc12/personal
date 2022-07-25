@@ -1,0 +1,131 @@
+Cover letter
+
+    Currently interested in expanding my knowledge in AI and new data analytics methods (e.g. Machine Learning) to complement my skills on reporting and data processing. Also interested in adding value to the business through the automation of processes and data insights.
+
+Job experiences
+
+    SSr Data Engineer
+    Nov 2021 - Current
+    Silicon Development - Argentina (Remote)
+
+        -
+
+    SSr Data Engineer
+    May 2021 -  Nov 2021
+    Intelegencia - Argentina (Remote)
+    
+        - Development and maintenance of data pipelines for manufacturing data platform built in Python
+        - Troubleshooting of issues related to data inconsistencies and bugs found in the platform
+        - Optimizations of data streams from multiple sources as MongoDB, S3, FTP, SQL and API’s
+    
+    Data Engineer
+    Nov 2020 - May 2021
+    Moni Online - Argentina
+
+        - Development of data pipelines using Pentaho, Python and Airflow. Monitoring existing pipelines performance and failures implementing different alerts and improvements.
+        - Maintenance of Redshift data warehouse using alembic library as main code to handle changes in the schema. Analyze data consistency and bugs encounter in the different data sources.
+        - Implementation of data lake in AWS S3 focusing on a setup to work with credit risk prediction models. Working with the data science for use cases and testing.
+        - Creation and maintenance of Tableau workbooks giving support to the different business teams. Automation of operational reports and processes in different areas.
+        - Other tools used for testing and development: Git, Jupyter Notebooks, SQL, Docker, API’s, Jira
+
+    Senior Data Quality Analyst
+    May 2020 - Nov 2020
+    Elementum SCM - Argentina
+
+        - Improve and implement processes related to the quality of the information, establishing general standards across
+        accounts
+        - Analyze the different problems of visibility and quality of the information from the carriers and account
+        providers
+        - Creation and automation of reports and processes using Python and Jenkins as the main tools in order to
+        extract data from different sources: MySQL, AWS, Elasticsearch
+        - Give support to different customers with issues related to the visibility, data quality and functionality of the application
+        - Escalate and track issues with the UI and bugs reported by end users
+    
+    Supply Chain Data Partner
+    Sep 2018 -  May 2020
+    Elementum SCM - Argentina
+
+        - Analysis of different issues related to the data quality of the client's carriers impacting the accuracy of the information in the app
+        - Give support to the different accounts regarding to the shipments data completeness as the main goal
+        - Develop and enhancements of processes related to carrier's data management
+        - Development of different data quality reports and visualizations using Tableau
+        - Queries and data extraction from different sources: MySQL, Amazon Web Services, Elasticsearch
+        - Reports automation using Python and Jenkins as the main tools
+
+    South Latam Pricing Analyst
+    May 2017 - Sep 2018
+    Thomson Reuters - Argentina
+
+        - Applying agile methodology to align and improve the current processes to Apttus CPQ
+        - Active participation in scrum meetings to do follow up of development activities and story backlog refinement
+        - Management of the price increment process for active customer's
+        - Elaborate an ad-hoc analysis to increment the company retention’s rate with consideration of the different variables to facilitated the decision making
+        -Coordinate and do follow up with the different areas involved in the process
+        - Management and update of the different business units’ price list for Argentina, Brazil, Uruguay, Chile and Paraguay
+        - Maintenance of the price data in SAP and generate reports with SAP BO to validate the correct pricing loads in the different systems
+        - Validate the renewal pricing increments in SFDC opportunities and price lists to keep a healthy sales pipeline
+        - Give support to sales, marketing and finances teams with multiples tasks as create new sales processes, generate reports from SAP and SFDC as required, validate and correct pricing data in both systems, etc
+
+    Production Planning Analyst
+    May 2016 - Nov 2016
+    Brewery Regional C.A - Venezuela
+
+        - KPI's management for continuous improvement process in production area. Create and maintain dashboards in Microsoft Power BI for follow up meetings
+        - Create and analysis different reports for the area related to productivity and control management to be presented directly to the plant director
+        - Control and follow up of plant’s budget. Analyze cost estimation including different variables for annual and bi annual forecasts
+        - Define, generate and control the weekly production plan with the restrictions from sales and supply chain areas.
+        - Analyze the production capacities and material consumption to optimize the supply chain and reduce the raw material. Monthly inventory control monthly and readjustments in the system
+        - Daily meetings to do follow up of the production plan to keep constant communication with operations, quality, storage and logistics to reach the production goal
+
+    Production Intern
+    Jul 2015 - Nov 2015
+    Brewery Regional C.A - Venezuela
+
+        - Apply PDCA continuous improvement methodology to create and update operations KPI's
+        - Improve reduction of raw materials with a root – cause analysis
+        - Operations processes time measure to generate a report for operations KPI's
+
+Education
+
+    Master of Economics
+    CEMA University - Argentina
+    2020 - 2023 (Expected graduation date)
+
+    Production Engineer
+    Simon Bolivar University - Venezuela
+    2010 - 2016
+    3.66/5
+
+Courses
+
+    Functional Programming in Scala Specialization
+    École Polytechnique Fédérale de Lausanne - Coursera
+    Jun 2022 - 2023 (Expected termination date)
+    
+    Machine Learning for Economists
+    CEMA University - Argentina
+    Jul 2020 - Sep 2020
+
+    Data Analyst with Python
+    Datacamp.inc - Remote
+    Jul 2017 - Oct 2017
+
+Languages
+
+    Spanish - Native
+    English - Advanced
+    Mandarin - Basic
+
+Tech skills
+
+    Power BI - Advanced
+    Tableau - Advanced
+    Python - Advanced
+    SQL - Advanced
+    AWS - Intermediate
+    GCP - Basic
+    Scala - Basic
+    Docker - Basic
+
+
+
