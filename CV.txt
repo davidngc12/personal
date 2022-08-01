@@ -18,7 +18,7 @@ Job experiences
             - Creation of toolset on Powershell for data extraction
         Key technologies: Python, SQL Server, Powershell
 
-    SSr Data Engineer
+    Semim Senior Data Engineer
     May 2021 -  Nov 2021
     Intelegencia - Argentina (Remote)
 
