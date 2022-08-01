@@ -1,89 +1,117 @@
 Cover letter
 
-    Currently interested in expanding my knowledge in AI and new data analytics methods (e.g. Machine Learning) to complement my skills on reporting and data processing. Also interested in adding value to the business through the automation of processes and data insights.
+    Data Engineer interested in adding value to the business through the automation of processes and data insights, and expanding my knowledge in AI and new data analytics methods (e.g. Machine Learning) to complement my skills in reporting and data processing.
 
 Job experiences
 
-    SSr Data Engineer
+    Semi Senior Data Engineer
     Nov 2021 - Current
     Silicon Development - Argentina (Remote)
 
-        -
+        Domain knowledge: Data engineering, Data Quality, Data Modeling
+        Main resposabilities:
+            - Implementation of new customers on claims data model for USA health care system
+            - Addition of new sources to existing customer's data warehouse
+            - Troubleshoot of different data issues raised by the different customers in USA
+        Main projects: 
+            - Automation of data quality reports on Python
+            - Creation of toolset on Powershell for data extraction
+        Key technologies: Python, SQL Server, Powershell
 
     SSr Data Engineer
     May 2021 -  Nov 2021
     Intelegencia - Argentina (Remote)
-    
-        - Development and maintenance of data pipelines for manufacturing data platform built in Python
-        - Troubleshooting of issues related to data inconsistencies and bugs found in the platform
-        - Optimizations of data streams from multiple sources as MongoDB, S3, FTP, SQL and API’s
+
+        Domain knowledge: Data engineering, Data Modeling, Web application
+        Main responsabilities:
+            - Troubleshooting issues related to data inconsistencies and bugs found in the web app
+            - Development and maintenance of data pipelines for manufacturing web app built in Python and Java
+            - Support case management for customer located in USA and Central America
+        Main projects: 
+            - Migrate data pipelines to new Java builder
+            - Creation of data profiling notebooks for new sources
+        Key technologies: Python, Java, MongoDB, S3, FTP, SQL, API
     
     Data Engineer
     Nov 2020 - May 2021
     Moni Online - Argentina
 
-        - Development of data pipelines using Pentaho, Python and Airflow. Monitoring existing pipelines performance and failures implementing different alerts and improvements.
-        - Maintenance of Redshift data warehouse using alembic library as main code to handle changes in the schema. Analyze data consistency and bugs encounter in the different data sources.
-        - Implementation of data lake in AWS S3 focusing on a setup to work with credit risk prediction models. Working with the data science for use cases and testing.
-        - Creation and maintenance of Tableau workbooks giving support to the different business teams. Automation of operational reports and processes in different areas.
-        - Other tools used for testing and development: Git, Jupyter Notebooks, SQL, Docker, API’s, Jira
+        Domain knowledge: Data engineering, Reporting, Business Intelligence
+        Main responsabilities:
+            - Monitor existing pipelines performance and failures by implementing different alerts and improvements
+            - Development of data pipelines using Pentaho, Python and Airflow
+            - Analyze the different problems of visibility and quality of the information from the carriers and account providers
+        Main projects: 
+            - Migrate data pipelines from Pentaho to Airflow
+            - Implementation of data lake in AWS S3 focusing on a setup to work with credit risk prediction models
+        Key technologies: Pentaho, Python, Airflow, AWS S3, Redshift, Docker
 
     Senior Data Quality Analyst
     May 2020 - Nov 2020
     Elementum SCM - Argentina
 
-        - Improve and implement processes related to the quality of the information, establishing general standards across
-        accounts
-        - Analyze the different problems of visibility and quality of the information from the carriers and account
-        providers
-        - Creation and automation of reports and processes using Python and Jenkins as the main tools in order to
-        extract data from different sources: MySQL, AWS, Elasticsearch
-        - Give support to different customers with issues related to the visibility, data quality and functionality of the application
-        - Escalate and track issues with the UI and bugs reported by end users
+        Domain knowledge: Data quality, Reporting, Automation
+        Main responsabilities:
+            - Improve and implement processes related to the quality of the information, establishing general standards across accounts
+            - Creation and automation of reports and processes using Python and Jenkins as the main tools in order to extract data from different sources
+            - Analyze the different problems of visibility and quality of the information from the carriers and account providers
+        Main projects: 
+            - Development of reporting system for carrier's data management
+            - Automation of data quality reports and alerts to monitor possible issues
+        Key technologies: Python, SQL, Elasticsearch, AWS S3, Tableau
     
     Supply Chain Data Partner
     Sep 2018 -  May 2020
     Elementum SCM - Argentina
 
-        - Analysis of different issues related to the data quality of the client's carriers impacting the accuracy of the information in the app
-        - Give support to the different accounts regarding to the shipments data completeness as the main goal
-        - Develop and enhancements of processes related to carrier's data management
-        - Development of different data quality reports and visualizations using Tableau
-        - Queries and data extraction from different sources: MySQL, Amazon Web Services, Elasticsearch
-        - Reports automation using Python and Jenkins as the main tools
+        Domain knowledge: Supply chain, Process improvement
+        Main resposabilities:
+            - Give support to the different accounts regarding the shipments data completeness as the main goal
+            - Analysis of different issues related to the data quality of the client's carriers impacting the accuracy of the information in the app
+            - Data extraction from different sources
+        Main projects: 
+            - Carrier's data management process improvements
+            - Development of different data quality reports and visualizations using Tableau
+        Key technologies: SQL, AWS, Tableau
 
     South Latam Pricing Analyst
     May 2017 - Sep 2018
     Thomson Reuters - Argentina
 
-        - Applying agile methodology to align and improve the current processes to Apttus CPQ
-        - Active participation in scrum meetings to do follow up of development activities and story backlog refinement
-        - Management of the price increment process for active customer's
-        - Elaborate an ad-hoc analysis to increment the company retention’s rate with consideration of the different variables to facilitated the decision making
-        -Coordinate and do follow up with the different areas involved in the process
-        - Management and update of the different business units’ price list for Argentina, Brazil, Uruguay, Chile and Paraguay
-        - Maintenance of the price data in SAP and generate reports with SAP BO to validate the correct pricing loads in the different systems
-        - Validate the renewal pricing increments in SFDC opportunities and price lists to keep a healthy sales pipeline
-        - Give support to sales, marketing and finances teams with multiples tasks as create new sales processes, generate reports from SAP and SFDC as required, validate and correct pricing data in both systems, etc
+        Domain knowledge: Agile, Pricing, CPQ
+        Main responsabilities:
+            - Give support to sales, marketing and finances teams with multiples tasks
+            - Validate the renewal pricing increases in SFDC opportunities
+            - Manage and update the different business unit's price list
+        Main projects: 
+            - Ad hoc analysis to increment the company's retention rate comparing with the different variables to facilitate the decision making
+            - Apply agile methodology to align and improve the current processes to Apttus CPQ
+        Key technologies: Excel, Power BI, SAP
 
     Production Planning Analyst
     May 2016 - Nov 2016
     Brewery Regional C.A - Venezuela
 
-        - KPI's management for continuous improvement process in production area. Create and maintain dashboards in Microsoft Power BI for follow up meetings
-        - Create and analysis different reports for the area related to productivity and control management to be presented directly to the plant director
-        - Control and follow up of plant’s budget. Analyze cost estimation including different variables for annual and bi annual forecasts
-        - Define, generate and control the weekly production plan with the restrictions from sales and supply chain areas.
-        - Analyze the production capacities and material consumption to optimize the supply chain and reduce the raw material. Monthly inventory control monthly and readjustments in the system
-        - Daily meetings to do follow up of the production plan to keep constant communication with operations, quality, storage and logistics to reach the production goal
+        Domain knowledge: Production planning, Continuous improvement
+        Main responsabilities:
+            - Follow up on weekly production plan
+            - KPI's management for continuous improvement process in the production area
+            - Analyze the production capacities and material consumption to optimize the supply chain
+        Main projects: 
+            - Create Power BI dashboards to improve KPI’s management
+            - Estimate cost analysis including different variables for annual and bi-annual forecasts
+        Key technologies: Excel, Power BI
 
     Production Intern
     Jul 2015 - Nov 2015
     Brewery Regional C.A - Venezuela
 
-        - Apply PDCA continuous improvement methodology to create and update operations KPI's
-        - Improve reduction of raw materials with a root – cause analysis
-        - Operations processes time measure to generate a report for operations KPI's
+        Domain knowledge: Continuous improvement, Process analysis
+        Main responsabilities: 
+            - Monitor and improve the reduction of raw materials
+        Main projects: 
+            - Apply PDCA continuous improvement methodology to create and update KPI's
+        Key technologies: Excel
 
 Education
 
@@ -94,7 +122,6 @@ Education
     Production Engineer
     Simon Bolivar University - Venezuela
     2010 - 2016
-    3.66/5
 
 Courses
 
@@ -115,17 +142,6 @@ Languages
     Spanish - Native
     English - Advanced
     Mandarin - Basic
-
-Tech skills
-
-    Power BI - Advanced
-    Tableau - Advanced
-    Python - Advanced
-    SQL - Advanced
-    AWS - Intermediate
-    GCP - Basic
-    Scala - Basic
-    Docker - Basic
 
 
 
